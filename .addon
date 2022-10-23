@@ -1,0 +1,16 @@
+{
+  "Title": "JustAnotherRestaurant",
+  "Type": "map",
+  "Org": "gimlet",
+  "Ident": "justanotherrestaurant",
+  "Schema": 1,
+  "HasAssets": true,
+  "AssetsPath": "",
+  "ResourcePaths": null,
+  "HasCode": false,
+  "CodePath": null,
+  "RootNamespace": null,
+  "Metadata": {
+    "ProjectTemplate": null
+  }
+}

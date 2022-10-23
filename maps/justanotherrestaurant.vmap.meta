@@ -1,0 +1,9 @@
+{
+  "cloud_packages": [
+    "exeros.furniturefridge#1452",
+    "gkaf.dumpster#1289"
+  ],
+  "game_packages": [
+    "gimlet.just_another_night"
+  ]
+}
